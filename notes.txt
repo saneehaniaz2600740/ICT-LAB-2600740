@@ -1,2 +1,4 @@
 git is a version control system.
 It tracks changes made to files.
+A branch lets you work without changing main.
+Merge combines changes from one branch into another.
