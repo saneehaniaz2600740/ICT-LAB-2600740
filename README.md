@@ -1,3 +1,5 @@
 # ICT LAB TASK 1
-Name: YOUR NAME
-Roll Number: YOUR ROLL NO
+Name: Saneeha Niaz
+Roll Number: 2600740
+I am a student who is learning programming and Git.
+This line was added on github.
