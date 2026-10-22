@@ -1,0 +1,2 @@
+git is a version control system.
+It tracks changes made to files.
